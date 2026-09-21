@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DS2RealTimeFOVChanger.vcxproj" Id="c9a72154-71e8-46c5-9273-51a8f9026410" />
+</Solution>

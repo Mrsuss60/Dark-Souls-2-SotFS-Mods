@@ -1,0 +1,40 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+#include <winres.h>
+
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "DS2_MODs"
+            VALUE "FileDescription", "Dark Souls 2 Real-Time FOV Changer Mod"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "DS2FOVChanger"
+            VALUE "LegalCopyright", "Copyright (C) 2026"
+            VALUE "OriginalFilename", "DS2FOVChanger.dll"
+            VALUE "ProductName", "DS2RealTimeFOVChanger"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
